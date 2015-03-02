@@ -1,0 +1,19 @@
+{
+  "name": "flockn-template",
+  "version": "0.0.1",
+  "homepage": "https://github.com/freezedev/flockn-template",
+  "authors": [
+    "Johannes Stein <johannesstein@freeze-dev.com>"
+  ],
+  "license": "Public domain",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flockn": "~0.1.0-alpha5"
+  }
+}
