@@ -1,0 +1,22 @@
+{
+  "name": "flockn-template",
+  "version": "0.0.1",
+  "description": "Template for the flockn game engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freezedev/flockn-template.git"
+  },
+  "author": "Johannes Stein <johannesstein@freeze-dev.com>",
+  "license": "Public domain",
+  "bugs": {
+    "url": "https://github.com/freezedev/flockn-template/issues"
+  },
+  "homepage": "https://github.com/freezedev/flockn-template",
+  "dependencies": {
+    "flockn": "0.1.0-alpha5"
+  }
+}
