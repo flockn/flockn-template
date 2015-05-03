@@ -18,5 +18,13 @@
   "homepage": "https://github.com/freezedev/flockn-template",
   "dependencies": {
     "flockn": "0.1.0-alpha5"
+  },
+  "devDependencies": {
+    "babel-core": "^5.1.13",
+    "babel-loader": "^5.0.0",
+    "grunt": "^0.4.5",
+    "grunt-webpack": "^1.0.8",
+    "webpack": "^1.8.10",
+    "webpack-dev-server": "^1.8.2"
   }
 }
