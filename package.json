@@ -1,6 +1,6 @@
 {
   "name": "flockn-template",
-  "version": "0.0.1-alpha1",
+  "version": "0.1.0",
   "description": "Template for the flockn game engine",
   "main": "index.js",
   "scripts": {
